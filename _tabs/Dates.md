@@ -9,3 +9,5 @@ order: 2
 | 06/05/2025 | Deadline for application |
 | 13/06/2025 | Notification for successful application |
 | 21/07/2025 - 23/07/2025 | Workshop |
+
+A full schedule will be provided to the accepted candidates prior to the event.
