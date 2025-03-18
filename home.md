@@ -18,25 +18,11 @@ We're excited to offer you a diverse scientific and networking programme. The wo
 
 The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologische Gesellschaft). We are thrilled to host it at the GFZ Helmholtz Centre for Geosciences on the historic Telegrafenberg in Potsdam. Join us for an engaging, interdisciplinary exchange - we look forward to welcoming you!
 
-<!-- <div style="text-align: center; background: none; padding: 0; margin: 0;">
+<div style="text-align: center; background: none; padding: 0; margin: 0;">
   <h3 style="margin-bottom: 10px; margin-bottom: 1cm;">This workshop is hosted by</h3>
-  <img src="Hosts_Logos.png" alt="DGH and GFZ Logo" style="width: auto; height: 1.7cm; display: inline-block; background: none;">
+  <img src="logos2.png" alt="DGH and GFZ Logo" style="width: auto; height: 1.7cm; display: inline-block; background: none;">
   
   <h3 style="margin-top: 20px; margin-bottom: 10px; margin-bottom: 1cm;">We would like to thank for their contribution</h3>
-  <img src="Contributors_Logos.png" alt="GCI, TAW, GEOx Logos" style="width: auto; height: 2.3cm; display: inline-block; background: none;">
-</div> -->
-
-<h3 style="text-align: center;">This workshop is hosted by</h3>
-
-
-<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="logos2.png"  alt="DGH and GFZ Logo" style="width: auto; height: 1.7cm;" />
+  <img src="logos2.png" alt="GCI, TAW, GEOx Logos" style="width: auto; height: 2.3cm; display: inline-block; background: none;">
 </div>
 
-
-<h3 style="text-align: center;">We would like to thank for their contribution</h3>
-
-
-<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="logos2.png"  alt="GCI, TAW, GEOx Logos" style="width: auto; height: 2.3cm;" />
-</div>
