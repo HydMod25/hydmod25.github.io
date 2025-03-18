@@ -8,7 +8,7 @@ permalink: /
 
 <h2 style="text-align: center;">Exploring the links between Hydrology and Hydrogeology</h2>
 
-<h3 style="text-align: center;">21/07/2025 - 23/07/2025</h3>
+<h3 style="text-align: center;margin-bottom: 1cm;">21/07/2025 - 23/07/2025</h3>
 
 Welcome to the 20th HYDrological MODeling Workshop (AG HydMod)! 
 
@@ -19,11 +19,8 @@ We're excited to offer you a diverse scientific and networking programme. The wo
 The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologische Gesellschaft). We are thrilled to host it at the GFZ Helmholtz Centre for Geosciences on the historic Telegrafenberg in Potsdam. Join us for an engaging, interdisciplinary exchange - we look forward to welcoming you!
 
 <h3 style="text-align: center;">This workshop is hosted by</h3>
-<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="Hosts_Logos.png" alt="DGH and GFZ Logo" style="height: 1.4cm; width: auto; " />
-</div>
+<img src="Hosts_Logos.png" alt="DGH and GFZ Logo" style="height: 1.6cm; width: auto; " />
+
 
 <h3 style="text-align: center;">We would like to thank for their contribution</h3>
-<div style="text-align: center; background-color: transparent; border: none; padding: 0; margin: 0;">
-    <img src="Contributors_Logos.png" alt="GCI, TAW, GEOx Logos" style="height: 1.4cm; width: auto;" />
-</div>
+<img src="Contributors_Logos.png" alt="GCI, TAW, GEOx Logos" style="height: 1.6cm; width: auto;" />
