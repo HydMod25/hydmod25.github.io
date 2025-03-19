@@ -29,4 +29,7 @@ The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologisc
 New figure stuff:
 ![DGH and GFZ Logo](Hosts_Logos.png){: w=auto h="1.7cm" }
 
-
+New:
+<div align="center">
+![DGH and GFZ Logo](Hosts_Logos.png){: w=auto h="1.7cm" }
+</div>
