@@ -26,3 +26,7 @@ The workshop is an annual event organized by the AG HYDMOD (Deutsche Hydrologisc
   <img src="Contributors_Logos.png" alt="GCI, TAW, GEOx Logos" style="width: auto; height: 2.3cm; display: inline-block; background: none;">
 </div>
 
+New figure stuff:
+![DGH and GFZ Logo](Hosts_Logos.png){: w=auto h="1.7cm" }
+
+
