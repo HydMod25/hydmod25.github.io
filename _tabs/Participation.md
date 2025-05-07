@@ -17,3 +17,11 @@ The official workshop language is English.
 Please send your name, e-mail address, institution and research topic to [hydmod25@gfz.de](mailto:hydmod25@gfz.de). The application deadline is Friday 6th of June, 2025. Applicants will be notified about acceptance by June 13, 2025. 
 
 The maximum number of participants is 26 and in case of more applicants the selection criteria are diversity of institution and research fields, as well as gender balance.
+
+### Excursion
+
+The last day of the workshop event, participants are invited to join the excursion with the research project [CHARMANT](https://www.charmant-grundwasser.de/) (in German language only), focused on sustainable use of groundwater resources in urban areas, in Berlin.
+
+We highly encourage active participation to discuss the importance of the work and methods used, as well as other projects and initiatives around the topics of our workshop. 
+
+More details on the event will be shared with the confirmed participants.
